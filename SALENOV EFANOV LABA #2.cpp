@@ -360,7 +360,7 @@ using namespace std;
 int main() {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
-	double summa, hyuinya;
+	double summa;
 	cout << "Задание №5 c крышей" << endl;
 	int x, y, z, u, d, i;
 	string p;
@@ -370,7 +370,7 @@ int main() {
 	cin >> y;
 	cout << "Сколько метров покрытия sada?" << endl;
 	cin >> z;
-	cout << "выбери тип материала (1- ахуенный, 2-норм,3-хуйня)" << endl;
+	cout << "выбери тип материала (1- отлично, 2-норм,3-плохо)" << endl;
 	cin >> u;
 	cout << "имеются ли базовые услуги?" << endl;
 	cin >> p;

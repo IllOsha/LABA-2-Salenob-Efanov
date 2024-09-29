@@ -1,0 +1,11 @@
+﻿  SALENOV EFANOV LABA #2.cpp
+C:\Users\Professional\source\repos\SALENOV EFANOV LABA (68,11): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Professional\source\repos\SALENOV EFANOV LABA (109,54): warning C4244: =: преобразование "double" в "char", возможна потеря данных
+C:\Users\Professional\source\repos\SALENOV EFANOV LABA (109,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SALENOV EFANOV LABA (122,47): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SALENOV EFANOV LABA (122,36): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Professional\source\repos\SALENOV EFANOV LABA (122,18): warning C4244: =: преобразование "short" в "char", возможна потеря данных
+C:\Users\Professional\source\repos\SALENOV EFANOV LABA (149,12): warning C4309: инициализация: усечение константного значения
+C:\Users\Professional\source\repos\SALENOV EFANOV LABA (262,6): warning C4305: =: усечение из "int" в "bool"
+C:\Users\Professional\source\repos\SALENOV EFANOV LABA (377,18): warning C4101: sum: неиспользованная локальная переменная
+  SALENOV EFANOV LABA #2.vcxproj -> C:\Users\Professional\source\repos\SALENOV EFANOV LABA #2\x64\Debug\SALENOV EFANOV LABA #2.exe
